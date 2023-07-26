@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kevin Diaz</h1>
 
-**`Full-Stack Developer`**
+**`Software Engineer`**
 
 - 🔭 I’m currently working on my **Senior Project**
 
