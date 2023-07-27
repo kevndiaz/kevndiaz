@@ -1,12 +1,6 @@
-# Hi 👋, I'm Kevin Diaz
+# Kevin Diaz
 
-**`Full-Stack Developer`**
-
-- 🔭 I’m currently working on my **Senior Project**
-
-- 🌱 I’m currently learning **React Native**
-
-- 📫 How to reach me **diazk2@wit.edu**
+**`Computer Science Major`**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
